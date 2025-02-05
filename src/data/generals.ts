@@ -1,0 +1,97 @@
+// src/data/generals.ts
+export const generals = [
+    // Generais do Exército Vermelho
+    {
+      id: 1,
+      slug: 'trotsky',
+      name: 'Leon Trotsky',
+      description: 'Líder do Exército Vermelho e estrategista fundamental para a vitória bolchevique.',
+      period: 'Guerra Civil Russa',
+      nation: 'Exército Vermelho',
+      imageUrl: '/images/trotsky.jpg', // Substituir pela imagem real
+    },
+    {
+      id: 2,
+      slug: 'frunze',
+      name: 'Mikhail Frunze',
+      description: 'Comandante habilidoso conhecido por sua liderança em batalhas decisivas.',
+      period: 'Guerra Civil Russa',
+      nation: 'Exército Vermelho',
+      imageUrl: '/images/frunze.jpg',
+    },
+    {
+      id: 3,
+      slug: 'chapayev',
+      name: 'Vasily Chapayev',
+      description: 'Herói popular e comandante de brigada do Exército Vermelho.',
+      period: 'Guerra Civil Russa',
+      nation: 'Exército Vermelho',
+      imageUrl: '/images/chapayev.jpg',
+    },
+    {
+      id: 4,
+      slug: 'budyonny',
+      name: 'Semyon Budyonny',
+      description: 'Comandante da cavalaria do Exército Vermelho, conhecido por sua bravura.',
+      period: 'Guerra Civil Russa',
+      nation: 'Exército Vermelho',
+      imageUrl: '/images/budyonny.jpg',
+    },
+    {
+      id: 5,
+      slug: 'tukhachevsky',
+      name: 'Mikhail Tukhachevsky',
+      description: 'Comandante soviético na Guerra Civil Russa, conhecido por suas táticas inovadoras e vitórias no Exército Vermelho.',
+      period: 'Guerra Civil Russa',
+      nation: 'Exército Vermelho',
+      imageUrl: '/images/tukhachevsky.jpg',
+    },
+    
+    // Generais do Exército Branco
+    {
+      id: 6,
+      slug: 'denikin',
+      name: 'Anton Denikin',
+      description: 'Líder do Exército Branco no sul da Rússia, famoso por sua resistência aos bolcheviques.',
+      period: 'Guerra Civil Russa',
+      nation: 'Exército Branco',
+      imageUrl: '/images/denikin.jpg',
+    },
+    {
+      id: 7,
+      slug: 'kolchak',
+      name: 'Alexander Kolchak',
+      description: 'Almirante e líder supremo do Exército Branco na Sibéria.',
+      period: 'Guerra Civil Russa',
+      nation: 'Exército Branco',
+      imageUrl: '/images/kolchak.jpg',
+    },
+    {
+      id: 8,
+      slug: 'wrangel',
+      name: 'Pyotr Wrangel',
+      description: 'Último comandante do Exército Branco na Crimeia, conhecido como o "Barão Negro".',
+      period: 'Guerra Civil Russa',
+      nation: 'Exército Branco',
+      imageUrl: '/images/wrangel.jpg',
+    },
+    {
+      id: 9,
+      slug: 'markov',
+      name: 'Sergey Markov',
+      description: 'Comandante do Exército Branco durante a Guerra Civil Russa, desempenhou um papel importante em várias batalhas no sul da Rússia, tentando resistir ao avanço bolchevique.',
+      period: 'Guerra Civil Russa',
+      nation: 'Exército Branco',
+      imageUrl: '/images/markov.jpg',
+    },
+    {
+      id: 10,
+      slug: 'sternberg',
+      name: 'Roman Ungern-Sternberg',
+      description: 'General do Exército Branco conhecido por suas campanhas na Mongólia e na Sibéria.',
+      period: 'Guerra Civil Russa',
+      nation: 'Exército Branco',
+      imageUrl: '/images/ungern.jpg',
+    },
+  ];
+  
