@@ -21,7 +21,7 @@
 1. **Clone o repositório:**
 
    ```bash
-   git clone https://github.com/seu-usuario/historia-militar.git
+   git clone https://github.com/viniciusfelixmatos/historia-militar.git
    cd historia-militar
    ```
 
@@ -44,6 +44,24 @@
 4. **Acesse no navegador:**
 
    Abra [http://localhost:3000](http://localhost:3000) para ver o projeto rodando.
+
+## 📷 Capturas de Tela
+
+### 🏠 Página Inicial
+![Página Inicial](./public/screenshots/pagina-inicial.png)
+*A primeira página que os usuários visualizam ao acessar o site, oferecendo uma visão geral do conteúdo disponível e facilitando a navegação.*
+
+### ⚔️ Página de Guerras
+![Página de Guerras](./public/screenshots/guerras.png)
+*Seção dedicada a grandes guerras da história, detalhando suas causas, consequências e principais eventos.*
+
+### 🏹 Página de Batalhas Históricas
+![Página de Batalhas Históricas](./public/screenshots/batalhas.png)
+*Explore batalhas icônicas, estratégias utilizadas e seus impactos nos conflitos em que ocorreram.*
+
+### 🎖️ Página de Líderes Militares
+![Página de Líderes Militares](./public/screenshots/lideres-militares.png)
+*Perfis de líderes militares influentes, analisando suas táticas, campanhas e legados históricos.*
 
 ## 📥 Deploy
 
@@ -70,17 +88,10 @@ Contribuições são bem-vindas! Para contribuir:
 3. Faça suas alterações.
 4. Envie o pull request.
 
-## 📅 Roadmap
-
-- [ ] Adicionar sistema de autenticação para contribuidores.
-- [ ] Implementar comentários nos artigos.
-- [ ] Adicionar suporte a múltiplos idiomas.
-
 ## 📄 Licença
 
 Este projeto está licenciado sob a [MIT License](LICENSE).
 
 ---
 
-Desenvolvido com ❤️ por [Seu Nome].
-
+Desenvolvido por Vinicius Matos.
