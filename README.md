@@ -14,7 +14,7 @@
 - [Next.js](https://nextjs.org/)
 - [React](https://reactjs.org/)
 - [Tailwind CSS](https://tailwindcss.com/)
-- [TypeScript](https://www.typescriptlang.org/) (opcional)
+- [TypeScript](https://www.typescriptlang.org/) 
 
 ## 💡 Como Rodar o Projeto
 
