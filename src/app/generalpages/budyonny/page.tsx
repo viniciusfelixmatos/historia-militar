@@ -201,12 +201,6 @@ export default function BudyonnyPage() {
                 <p className="text-lg text-gray-700 leading-relaxed mt-4">
                   Budyonny também participou da reconquista da Crimeia, a fase final da Guerra Civil Russa.
                 </p>
-                <p className="text-lg text-gray-700 leading-relaxed mt-4"></p>
-                <p className="text-lg text-gray-700 leading-relaxed mt-4"></p>
-                <p className="text-lg text-gray-700 leading-relaxed mt-4"></p>
-                <p className="text-lg text-gray-700 leading-relaxed mt-4"></p>
-                <p className="text-lg text-gray-700 leading-relaxed mt-4"></p>
-                <p className="text-lg text-gray-700 leading-relaxed mt-4"></p>
               </section>
 
               <section className="mt-8 max-w-4xl text-justify">
@@ -410,10 +404,6 @@ export default function BudyonnyPage() {
                   nascido em 1944, e uma filha, Nina, nascida em 1939.
                 </p>
               </section>
-
-
-
-
           </div>
         </div>
       </main>
